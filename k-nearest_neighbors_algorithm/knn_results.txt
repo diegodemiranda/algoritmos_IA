@@ -1,0 +1,63 @@
+Column removed: (Acidity) 
+Conf matrix:
+[510  86]
+[ 86 518]
+Accuracy: 85.66666666666667 %
+Precision: 85.57046979865773 %
+Recall: 85.57046979865773 %
+Specificity: 85.76158940397352 %
+
+Column removed: (Crunchiness) 
+Conf matrix:
+[513  83]
+[ 73 531]
+Accuracy: 87.0 %
+Precision: 87.54266211604096 %
+Recall: 86.0738255033557 %
+Specificity: 87.91390728476821 %
+
+Column removed: (Juiciness) 
+Conf matrix:
+[524  72]
+[ 89 515]
+Accuracy: 86.58333333333333 %
+Precision: 85.48123980424144 %
+Recall: 87.91946308724832 %
+Specificity: 85.26490066225165 %
+
+Column removed: (Ripeness) 
+Conf matrix:
+[485 111]
+[118 486]
+Accuracy: 80.91666666666667 %
+Precision: 80.43117744610282 %
+Recall: 81.3758389261745 %
+Specificity: 80.4635761589404 %
+
+Column removed: (Size) 
+Conf matrix:
+[496 100]
+[ 99 505]
+Accuracy: 83.41666666666666 %
+Precision: 83.36134453781513 %
+Recall: 83.22147651006712 %
+Specificity: 83.6092715231788 %
+
+Column removed: (Sweetness) 
+Conf matrix:
+[487 109]
+[ 93 511]
+Accuracy: 83.16666666666667 %
+Precision: 83.9655172413793 %
+Recall: 81.71140939597315 %
+Specificity: 84.60264900662253 %
+
+Column removed: (Weight) 
+Conf matrix:
+[506  90]
+[ 74 530]
+Accuracy: 86.33333333333333 %
+Precision: 87.24137931034483 %
+Recall: 84.8993288590604 %
+Specificity: 87.74834437086093 %
+
